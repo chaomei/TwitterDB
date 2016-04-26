@@ -1,0 +1,11 @@
+{
+    "name": "vendor/twitter-d-b",
+    "description": "Description of project TwitterDB.",
+    "authors": [
+        {
+            "name": "Chaomei Chen",
+            "email": "cc345@drexel.edu"
+        }
+    ],
+    "require": {"abraham/twitteroauth":"0.6.2"}
+}
