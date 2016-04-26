@@ -1,0 +1,13 @@
+# TwitterDB
+Various examples of using PHP and MySQL with data APIs such as Twitter API.
+
+This is a PHP application with an XAMPP set up, i.e. an Apache Web Server and a MySQL database server.
+Here are some simple but error-prone steps to follow:
+1. Obtain your Twitter API app account and four pieces of information - your access credentials - CONSUMER_KEY, CONSUMER_SECRET, ACCESS_TOKEN, and ACCESS_TOKEN_SECRET.
+2. Set four Apache environment variables to store these values, e.g. SetEnv CONSUMER_KEY "***************".
+3. Similarly, set Appache enviornment variables to store your MySQL username and password.
+4. Run controller/test.php with any query, i.e. $query = 'star wars.' 
+
+You should get something like this in your browser :-)
+RT @DepressedDarth: If you're married to someone who doesn't like Star Wars, may divorce be with you
+RT @StarWarsDirect: Daisy Ridley training for Star Wars: Episode VIII https://t.co/x024J9hd72
